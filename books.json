@@ -1,0 +1,42 @@
+[
+    {
+      "book_title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_date": "1925-04-10"
+    },
+    {
+      "book_title": "1984",
+      "author": "George Orwell",
+      "published_date": "1949-06-08"
+    },
+    {
+      "book_title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_date": "1960-07-11"
+    },
+    {
+      "book_title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_date": "1951-07-16"
+    },
+    {
+      "book_title": "Animal Farm",
+      "author": "George Orwell",
+      "published_date": "1945-08-17"
+    },
+    {
+      "book_title": "Brave New World",
+      "author": "Aldous Huxley",
+      "published_date": "1932-06-14"
+    },
+    {
+      "book_title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "published_date": "1939-04-14"
+    },
+    {
+      "book_title": "Lord of the Flies",
+      "author": "William Golding",
+      "published_date": "1954-09-17"
+    }
+  ]
